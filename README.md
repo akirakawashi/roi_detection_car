@@ -1,6 +1,6 @@
-# CV_detection_car_test
+# CV_detection_car
 
-CV_detection_car_test — lightweight demo for detecting vehicles inside a fixed Region Of Interest (ROI).
+CV_detection_car — lightweight demo for detecting vehicles inside a fixed Region Of Interest (ROI).
 
 **Goal**
 
@@ -64,7 +64,7 @@ The script will write the processed video to the file set in `VIDEO_OUTPUT_PATH`
 
 - Script: ***[detection.py](detection.py)***
 - Notebook: ***[prediction.ipynb](prediction.ipynb)***
-- Example output video: https://rutube.ru/video/private/96861705e49012180276081d4653b0fb/?p=B67JHRbf04dCjkrF2xXqcA
+- Example output video: [Watch the example output video](https://rutube.ru/video/private/96861705e49012180276081d4653b0fb/?p=B67JHRbf04dCjkrF2xXqcA)
 
 If you want, I can add a minimal `requirements.txt`, a short example command with environment detection, or include sample ROI coordinates for a common resolution.  
 
